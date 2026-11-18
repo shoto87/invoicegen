@@ -5,8 +5,8 @@
 *.log
 
 # Local secrets and environment overrides
-**/.env
-**/.env.*
+# **/.env
+# **/.env.*
 !**/.env.example
 
 # Local editor and operating-system files
